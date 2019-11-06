@@ -6,14 +6,13 @@ namespace XandiHarris.CodeLou.ExerciseProject
 {
     class Student
     {
-
-        int StudentId;
-        string FirstName;
-        string LastName;
-        string ClassName;
-        DateTimeOffset StartDate;
-        string LastClassCompleted;
-        DateTimeOffset LastClassCompletedOn;
+        public int StudentId {get; set;}
+        public string FirstName {get; set;}
+        public string LastName {get; set;}
+        public string ClassName {get; set;}
+        public DateTimeOffset StartDate {get; set;}
+        public string LastClassCompleted {get; set;}
+        public DateTimeOffset LastClassCompletedOn {get; set;}
         static void Main(string[] _1)
         {
             Console.WriteLine("Would you like to enter a New Student? (y or n)");

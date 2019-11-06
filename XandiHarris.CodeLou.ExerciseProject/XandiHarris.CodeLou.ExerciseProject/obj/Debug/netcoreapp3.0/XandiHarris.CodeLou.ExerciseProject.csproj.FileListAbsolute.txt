@@ -1,0 +1,11 @@
+C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\bin\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.exe
+C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\bin\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.deps.json
+C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\bin\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.runtimeconfig.json
+C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\bin\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.runtimeconfig.dev.json
+C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\bin\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.dll
+C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\bin\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.pdb
+C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\obj\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.csprojAssemblyReference.cache
+C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\obj\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.AssemblyInfoInputs.cache
+C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\obj\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.AssemblyInfo.cs
+C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\obj\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.dll
+C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\obj\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.pdb

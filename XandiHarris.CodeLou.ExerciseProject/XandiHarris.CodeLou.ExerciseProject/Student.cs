@@ -15,8 +15,9 @@ namespace XandiHarris.CodeLou.ExerciseProject
         public DateTimeOffset LastClassCompletedOn {get; set;}
         static void Main(string[] _1)
         {
-            Console.WriteLine("Would you like to enter a New Student? (y or n)");
+            Console.WriteLine("Would you like to enter a New Student? y/n");
             var newStudent = Console.ReadLine();
+            var students = new List<Student>();
 
             while (newStudent == "y")
             {
@@ -43,13 +44,20 @@ namespace XandiHarris.CodeLou.ExerciseProject
                 studentRecord.StartDate = startDate;
                 studentRecord.LastClassCompleted = lastClass;
                 studentRecord.LastClassCompletedOn = lastCompletedOn;
-                Console.WriteLine($"Student Id | Name |  Class  Started On | Last Class Finished On |"); ;
-                Console.WriteLine($"{studentRecord.StudentId} | {studentRecord.FirstName} {studentRecord.LastName} | {studentRecord.ClassName}  {studentRecord.StartDate}  |  {studentRecord.LastClassCompleted}  {studentRecord.LastClassCompletedOn} "); ;
-                Console.WriteLine(" ");
 
-                Console.WriteLine("Would you like to enter another new student? (y or n)");
+                students.Add(studentRecord);
+
+
+                Console.WriteLine("Would you like to enter another new student? y/n");
                 newStudent = Console.ReadLine();
+                Console.WriteLine();
             }
+            Console.WriteLine($"Student Id | Name |  Class  Started On | Last Class Finished On |"); ;
+
+            foreach (var studentRecord in students)
+            {
+                Console.WriteLine($"{studentRecord.StudentId} | {studentRecord.FirstName} {studentRecord.LastName} | {studentRecord.ClassName}  {studentRecord.StartDate}  |  {studentRecord.LastClassCompleted}  {studentRecord.LastClassCompletedOn} "); ;
+            }    
         }
     }
 }

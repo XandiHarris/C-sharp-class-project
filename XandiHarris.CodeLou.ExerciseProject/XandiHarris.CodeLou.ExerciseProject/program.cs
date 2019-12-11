@@ -10,7 +10,7 @@ namespace XandiHarris.CodeLou.ExerciseProject
     class Program
     {
         public static List<Student> students = new List<Student>();
-        public static Dictionary<string, Student> studentDict = new Dictionary<string, Student>();
+        public static Dictionary<string, Student> studentDictionary = new Dictionary<string, Student>();
 
         static void Main()
         {
@@ -116,7 +116,7 @@ namespace XandiHarris.CodeLou.ExerciseProject
                 };
 
                 students.Add(newStudent);
-                studentDict.Add(newStudent.FirstName + " " + newStudent.LastName, newStudent);
+                studentDictionary.Add(newStudent.FirstName + " " + newStudent.LastName, newStudent);
 
                 Console.WriteLine("Would you like to enter another new student? y/n");
                 enterStudent = Console.ReadLine();

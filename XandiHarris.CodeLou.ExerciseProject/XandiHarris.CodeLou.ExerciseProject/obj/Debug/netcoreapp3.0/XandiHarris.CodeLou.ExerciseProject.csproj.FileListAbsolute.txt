@@ -9,3 +9,5 @@ C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.Exe
 C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\obj\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.AssemblyInfo.cs
 C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\obj\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.dll
 C:\Users\Xandi Harris\source\repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\obj\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.pdb
+C:\Users\Xandi Harris\Source\Repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Xandi Harris\Source\Repos\C-sharp-class-project\XandiHarris.CodeLou.ExerciseProject\XandiHarris.CodeLou.ExerciseProject\obj\Debug\netcoreapp3.0\XandiHarris.CodeLou.ExerciseProject.csproj.CopyComplete
